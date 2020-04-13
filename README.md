@@ -1,5 +1,7 @@
 # Lab-05
 
+Heroku Deployment: https://dashboard.heroku.com/apps/peyton-portfolio-deployment/deploy/github
+
 ## Time Estimates
 
 Number and name of feature: #1 Deployment
